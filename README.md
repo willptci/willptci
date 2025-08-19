@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Will Parrrish and I go to Georgia Tech
 - 👀 I’m interested in soccer, water sports, and hiking!
-- 📫 Reach me @ will.parrish@gtbeta.org
+- 📫 Reach me @ will.parrish@gtbeta.org or wparrish8@gatech.edu
