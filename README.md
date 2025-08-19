@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Will Parrrish and I go to Georgia Tech
 - 👀 I’m interested in soccer, water sports, and hiking!
-- 🌱 I’m currently learning Next.js
 - 📫 Reach me @ will.parrish@gtbeta.org
