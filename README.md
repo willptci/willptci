@@ -2,4 +2,3 @@
 - 👀 I’m interested in soccer, water sports, and hiking!
 - 📫 Reach me @ will.parrish@gtbeta.org or wparrish8@gatech.edu
 - LinkedIn Profile - https://www.linkedin.com/in/will-m-parrish/
-- 💻 GaTech VIP Website Prototype - https://v0-activity-booking-platform.vercel.app/
